@@ -1,2 +1,2 @@
 # Swing
-Here all projects using Java Swing with Folder
+Here all projects using Java Swing with Folders
