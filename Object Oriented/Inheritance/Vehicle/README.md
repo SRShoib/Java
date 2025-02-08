@@ -1,3 +1,3 @@
 # Inheritance of Vehicle
-<p3>Here "SecondHandVehicle" class inherit "Vehicle" Class<br/>
-"Test" class is the main output class<p3/>
+<h3>Here "SecondHandVehicle" class inherit "Vehicle" Class<h3/><br/>
+<h3>"Test" class is the main output class<h3/>
